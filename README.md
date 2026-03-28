@@ -3,13 +3,6 @@
 ## 📌 Project Description
 This project demonstrates the deployment of a static website on an Azure Virtual Machine by provisioning infrastructure using Terraform and configuring the Nginx web server.
 
-## 🚀 Tools & Technologies Used
-- Microsoft Azure
-- Terraform
-- Linux (Ubuntu)
-- Nginx
-- SSH & SCP
-
 ## ⚙️ Infrastructure Setup
 Using Terraform, the following Azure resources were created:
 - Virtual Machine (VM)
@@ -38,10 +31,7 @@ The static website was successfully deployed and accessed using the public IP ad
 - File transfer using SCP
 
 ## 📎 Note
-The VM may be stopped to avoid charges. It can be restarted anytime to access the live website.
-
-
----
+The VM  stopped to avoid charges. 
 
 ## 🚀 Technologies Used
 
